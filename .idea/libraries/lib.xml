@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/jMemorize-master/lib/junit.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jMemorize-master/lib/forms-1.0.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jMemorize-master/lib/jcommon-1.0.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jMemorize-master/lib/svnjavahl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jMemorize-master/lib/jfreechart-1.0.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jMemorize-master/lib/csv.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jMemorize-master/lib/itext-1.4.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jMemorize-master/lib/servlet.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jMemorize-master/lib/svnClientAdapter.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jMemorize-master/lib/svnant.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
